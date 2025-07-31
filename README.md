@@ -21,6 +21,7 @@ Build a regression model that predicts the sale price of a house using its:
 Square footage
 Number of bedrooms
 Number of full bathrooms
+
 🔧 Tech Stack
 Python 🐍
 Pandas 📊
