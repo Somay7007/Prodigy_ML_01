@@ -23,7 +23,11 @@ Number of bedrooms
 Number of full bathrooms
 
 🔧 Tech Stack
+
 Python 🐍
+
 Pandas 📊
+
 scikit-learn ⚙️
+
 Matplotlib & Seaborn 📉
