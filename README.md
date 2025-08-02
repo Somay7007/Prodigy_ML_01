@@ -10,16 +10,23 @@ This project uses the House Prices - Advanced Regression Techniques dataset from
 Features used:
 
 GrLivArea: Above-ground living area in square feet
+
 BedroomAbvGr: Number of bedrooms above ground level
+
 FullBath: Number of full bathrooms
+
 Target variable:
 
 SalePrice: Final price of the house
+
 📊 Problem Statement
+
 Build a regression model that predicts the sale price of a house using its:
 
 Square footage
+
 Number of bedrooms
+
 Number of full bathrooms
 
 🔧 Tech Stack
