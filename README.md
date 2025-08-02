@@ -1,7 +1,11 @@
 # Prodigy_ML_01
+
 # 🏡 House Price Prediction using Linear Regression
+
 Repository Name: PRODIGY_ML_01
+
 Internship Track: Machine Learning
+
 Task-01: Predict housing prices based on square footage, number of bedrooms, and bathrooms using a Linear Regression model.
 
 📂 Dataset
